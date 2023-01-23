@@ -1,0 +1,161 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 80px;
+  padding-bottom: 50px;
+  max-width: 1440px;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  color: #18181b;
+}
+
+button {
+  max-width: 84px;
+  width: 100%;
+  height: 38px;
+  background: #cffafe;
+  border-radius: 2px;
+  color: #0e7490;
+  border: none;
+}
+
+.section1 { max-width: 1440px;
+    margin: auto;
+ 
+} 
+
+.AUSDV{border: none;}
+
+.headpara {
+ 
+
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 115px;
+  letter-spacing: -2px;
+  text-align: center;
+  color: #1f2937;
+  white-space: nowrap;
+}
+
+.orgdv p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #52525B;
+    max-width: 800px;
+    height: 50px; 
+    margin: auto;
+}
+
+.region {
+  display: flex;
+  justify-content: center;
+  gap: 37px;
+  align-items: center; 
+  border:1px solid #D4D4D8;
+  border-radius: 2px;
+  max-width: 406px;
+  height: 64px;
+
+  margin: 50px auto 0px auto;
+}
+
+.alldv {
+  display: flex;
+  gap: 9px;
+  height: 4px;
+  align-items: center;
+}
+
+.mainsection {
+  padding: 0px 179px 103px 175px;
+  margin-top: 178px;
+}
+
+.section2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 87px; 
+  max-width: 1440px;
+  margin: auto;
+}
+
+
+
+
+.project2 {
+  margin-top: -105px;
+}
+
+.prjct1 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+
+  letter-spacing: -0.01em;
+  font-feature-settings: "liga" off;
+  margin-top: 24px;
+
+  color: #52525b;
+}
+
+.projct1head {
+  font-weight: 800;
+  font-size: 28px;
+  line-height: 28px;
+  letter-spacing: -0.02em;
+  font-feature-settings: "liga" off;
+  color: #27272a;
+  margin-top: 12px;
+}
+
+.adobe {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-feature-settings: "liga" off;
+ margin-top: 8px;
+
+  color: #52525b;
+}
+ 
+.storydiv{display: flex;
+align-items: center;
+font-weight: 500;
+font-size: 14px;
+line-height: 14px;
+letter-spacing: -0.5px;
+text-decoration-line: underline;
+color: #0E7490; 
+margin-top: 15px;
+}  
+
+.section3{ display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 87px; 
+    max-width: 1440px;
+    margin: auto;} 
+
+    .projectdv2{ margin-top: 80px;}
